@@ -1,0 +1,48 @@
+_repo: South-American-Jungle-Tales_46051
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ripley, Aiden Lassell
+    alias: Ripley, A. L.
+    birthdate: 1896
+    deathdate: 1969
+    gutenberg_agent_id: '43588'
+    url: http://www.gutenberg.org/2009/agents/43588
+  translator:
+    agent_name: Livingston, Arthur
+    alias: Livingston, Albert Arthur
+    birthdate: 1883
+    deathdate: 1944
+    gutenberg_agent_id: '34005'
+    url: http://www.gutenberg.org/2009/agents/34005
+covers:
+- cover_type: archival
+  image_path: 46051-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quiroga, Horacio
+    aliases:
+    - Forteza, Horacio Silvestre Quiroga
+    - Quiroga, H. (Horacio)
+    - Silvestre Quiroga Forteza, Horacio
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '5094'
+    url: http://www.gutenberg.org/2009/agents/5094
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Horacio_Quiroga
+    - http://en.wikipedia.org/wiki/Horacio_Quiroga
+description: ''
+gutenberg_issued: '2014-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+title: South American Jungle Tales
+url: http://www.gutenberg.org/ebooks/46051
